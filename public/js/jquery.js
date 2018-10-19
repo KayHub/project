@@ -1,5 +1,5 @@
 function Jquery() { 
-    this.url = 'https://route.showapi.com/109-35'
+    this.url = 'https://route.showapi.com/109-35' 
     this.queryUrl = 'https://route.showapi.com/109-34'
     this.appId = 73733
     this.signature = 'fd4cee616b564631a718acff3bf983c0'
